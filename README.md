@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="badges">
@@ -15,16 +15,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Ezinnem&style=flat-square&color=blue" alt=""/>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -32,13 +22,15 @@
 
 I am a Software Developer.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Also I perform Quality Assurance tests for web applications.
+- :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications. Also I perform Quality Assurance tests for web applications.
 
-- :seedling: Exploring Technical Content Writing. [![Meduim Badge](https://img.shields.io/badge/-kakbar-black?style=flat&logo=meduim&logoColor=white)](https://medium.com/@nnamani.ezinne)
+- :seedling: Exploring Technical Content Writing. [![Meduim Badge](https://img.shields.io/badge/Meduim-black?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@nnamani.ezinne)
+
+
 
 - :zap: In my free time, I contribute to Open Source projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nnamaniezinne/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnamaniezinne/)
 
 
 ---
