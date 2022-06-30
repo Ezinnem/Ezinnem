@@ -59,9 +59,9 @@ I am a Software Developer.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezinnem&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/Ezinnem)
 
-
+https://github.com/anuraghazra/github-readme-stats
 
 
 
