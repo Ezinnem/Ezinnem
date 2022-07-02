@@ -57,7 +57,7 @@ I am a Software Developer.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezinnem&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezinnem&theme=dark)](https://github.com/Ezinnem)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/Ezinnem)
 
