@@ -59,7 +59,6 @@ I am a Software Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/Ezinnem)
 
-https://github.com/anuraghazra/github-readme-stats
 
 
 <!--
