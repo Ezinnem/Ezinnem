@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 ---
 
 ### :woman_technologist: About Me:
@@ -29,7 +28,6 @@ I am a Software Developer.
 - :zap: In my free time, I contribute to Open Source projects and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnamaniezinne/)
-
 
 ---
 
