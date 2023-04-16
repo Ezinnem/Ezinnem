@@ -50,7 +50,7 @@ I am a Software Developer.
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezinnem&theme=dark)](https://github.com/Ezinnem)
 
