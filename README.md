@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a Software Developer.
+I am a Software Developer
 
 - :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications. Also I perform Quality Assurance tests for web applications.
 
