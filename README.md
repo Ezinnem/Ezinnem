@@ -56,7 +56,6 @@ I am a Software Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/Ezinnem)
 
-
 <!--
 **Ezinnem/Ezinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
