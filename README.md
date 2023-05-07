@@ -16,7 +16,6 @@
   </a>
 </div>
 ---
-
 ### :woman_technologist: About Me:
 
 I am a Software Developer.
