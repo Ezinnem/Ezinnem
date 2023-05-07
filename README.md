@@ -1,4 +1,4 @@
-### Hi there👋
+### Hi there 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -30,7 +30,7 @@ I am a Software Developer.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -49,7 +49,7 @@ I am a Software Developer.
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezinnem&theme=dark)](https://github.com/Ezinnem)
 
