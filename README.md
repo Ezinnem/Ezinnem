@@ -15,8 +15,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ---
-### :woman_technologist: About Me:
+
+### :woman_technologist: About Me :
 
 I am a Software Developer.
 
@@ -30,7 +32,7 @@ I am a Software Developer.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
