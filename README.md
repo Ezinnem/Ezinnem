@@ -26,7 +26,7 @@ I am a Software Developer.
 
 - :seedling: Exploring Technical Content Writing. [![Meduim Badge](https://img.shields.io/badge/Meduim-black?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@nnamani.ezinne)
 
-- :zap: In my free time, I contribute to Open Source projects and read tech articles.
+- :zap: In my free time, I contribute to Open Source projects and read technical articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnamaniezinne/)
 
