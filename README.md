@@ -27,7 +27,7 @@ I am a Software Developer.
 
 - :zap: In my free time, I contribute to Open Source projects and read technical articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnamaniezinne/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nnamaniezinne/)
 
 ---
 
