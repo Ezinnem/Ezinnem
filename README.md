@@ -24,7 +24,7 @@ I am a Software Developer.
 
 - :telescope: I am a Software Engineer; contributing to frontend and backend for building web applications. Also, I perform Quality Assurance tests for web applications.
 
-- :seedling: Exploring Technical Content Writing using [![Meduim Badge](https://img.shields.io/badge/Meduim-black?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@nnamani.ezinne)
+- :seedling: Exploring Technical Content Writing using [![Medium Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@nnamani.ezinne)
 
 - :zap: In my free time, I contribute to Open Source projects and read technical articles.
 
