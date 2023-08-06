@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a Software Engineer.
+I am Ezinne Nnamani.
 
 - :telescope: I am a Software Engineer; contributing to frontend and backend for building web applications. Also, I perform Quality Assurance tests for web applications.
 
