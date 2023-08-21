@@ -18,7 +18,7 @@
 
 ---
 
-### :woman_technologist: About Me:
+### :woman_technologist: About me:
 
 My name is Ezinne Nnamani.
 
